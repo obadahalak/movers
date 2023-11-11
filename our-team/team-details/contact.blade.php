@@ -1,6 +1,6 @@
 <div class="team-contact">
     <div class="container">
-        <h4 class="pbmit-title">Contact Me</h4>
+        <h4 class="pbmit-title">{{ taal_user_pure(467,'ned') }}Contact Me</h4>
         <form class="team-details-contact">
             <div class="row">
                 <div class="col-md-12">
@@ -16,7 +16,7 @@
                     <textarea class="form-control" placeholder="Message" name="message"></textarea>
                 </div>
                 <div>
-                    <a href="#" class="pbmit-btn">SEND MESSAGE</a>
+                    <a href="#" class="pbmit-btn">{{ taal_user_pure(468,'ned') }}SEND MESSAGE</a>
                 </div>
             </div>
         </form>
