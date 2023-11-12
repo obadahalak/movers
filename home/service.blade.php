@@ -4,12 +4,12 @@
             <div class="row">
                 <div class="col-md-5">
                     <div class="pbmit-heading-subheading-style-1">
-                        <h4 class="pbmit-subtitle">{{ taal_user_pure(401,'ned') }}why choose us?</h4>
-                        <h2 class="pbmit-title">{{ taal_user_pure(402,'ned') }}We give you complete <strong>control of your .</strong></h2>
+                        <h4 class="pbmit-subtitle">{{ taal_user_pure(415,'ned') }}why choose us?</h4>
+                        <h2 class="pbmit-title">{{ taal_user_pure(416,'ned') }}We give you complete <strong>{{ taal_user_pure(417,'ned') }}control of your .</strong></h2>
                     </div>
                 </div>
                 <div class="col-md-7">
-                    <p>{{ taal_user_pure(403,'ned') }}Our team discussed every single detail to make sure Boo is the most versatile and unique theme created so far. Our team discussed every single detail to make sure Boo is the most versatile and unique theme created so far.</p>
+                    <p>{{ taal_user_pure(418,'ned') }}Our team discussed every single detail to make sure Boo is the most versatile and unique theme created so far. Our team discussed every single detail to make sure Boo is the most versatile and unique theme created so far.</p>
                 </div>
             </div>
         </div>
@@ -28,10 +28,10 @@
                         <div class="pbminfotech-box-content">
                             <div class="pbminfotech-box-content-inner">
                                 <div class="pbminfotech-box-category">
-                                    <a href="#" rel="tag">{{ taal_user_pure(498,'ned') }}Why choose us?</a>
+                                    <a href="#" rel="tag">{{ taal_user_pure(419,'ned') }}Why choose us?</a>
                                 </div>
                                 <div class="pbminfotech-pf-box-title">
-                                    <h3><a href="services-details.html">{{ taal_user_pure(499,'ned') }}Residential Moves</a></h3>
+                                    <h3><a href="services-details.html">{{ taal_user_pure(420,'ned') }}Residential Moves</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -52,10 +52,10 @@
                         <div class="pbminfotech-box-content">
                             <div class="pbminfotech-box-content-inner">
                                 <div class="pbminfotech-box-category">
-                                    <a href="#" rel="tag">{{ taal_user_pure(404,'ned') }}Why choose us?</a>
+                                    <a href="#" rel="tag">{{ taal_user_pure(421,'ned') }}Why choose us?</a>
                                 </div>
                                 <div class="pbminfotech-pf-box-title">
-                                    <h3><a href="services-details.html">{{ taal_user_pure(405,'ned') }}Corporate Relocation</a></h3>
+                                    <h3><a href="services-details.html">{{ taal_user_pure(422,'ned') }}Corporate Relocation</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -76,10 +76,10 @@
                         <div class="pbminfotech-box-content">
                             <div class="pbminfotech-box-content-inner">
                                 <div class="pbminfotech-box-category">
-                                    <a href="#" rel="tag">{{ taal_user_pure(450,'ned') }}Why choose us?</a>
+                                    <a href="#" rel="tag">{{ taal_user_pure(423,'ned') }}Why choose us?</a>
                                 </div>
                                 <div class="pbminfotech-pf-box-title">
-                                    <h3><a href="services-details.html">{{ taal_user_pure(407,'ned') }}Warehousing & Storage</a></h3>
+                                    <h3><a href="services-details.html">{{ taal_user_pure(424,'ned') }}Warehousing & Storage</a></h3>
                                 </div>
                             </div>
                         </div>

@@ -2,9 +2,7 @@
 
 @section('content')
 
-<div class="page-wrapper">
-
-    <!-- Header Main Area -->
+    <!--shahd -->
     <header class="site-header header-style-6">
     
     
