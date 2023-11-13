@@ -19,7 +19,7 @@
                     <div class="pbminfotech-post-item">
                         <span class="pbminfotech-item-thumbnail">
                             <span class="pbminfotech-item-thumbnail-inner">
-                                <img src="{{asset("/movers/images/homepage-6/service/service-01.jpg")}}" class="img-fluid" alt="">
+                                <img src="{{asset("/movers/revolution/photos/service-01.jpg")}}" class="img-fluid" alt="">
                             </span>
                         </span>		
                         <div class="pbmit-ihbox-icon">
@@ -43,7 +43,7 @@
                     <div class="pbminfotech-post-item">
                         <span class="pbminfotech-item-thumbnail">
                             <span class="pbminfotech-item-thumbnail-inner">
-                                <img src="{{asset("/movers/images/homepage-6/service/service-02.jpg")}}" class="img-fluid" alt="">
+                                <img src="{{asset("movers/revolution/photos/service-02.jpg")}}" class="img-fluid" alt="">
                             </span>
                         </span>		
                         <div class="pbmit-ihbox-icon">
@@ -67,7 +67,7 @@
                     <div class="pbminfotech-post-item">
                         <span class="pbminfotech-item-thumbnail">
                             <span class="pbminfotech-item-thumbnail-inner">
-                                <img src="{{asset("/movers/images/homepage-6/service/service-03.jpg")}}" class="img-fluid" alt="">
+                                <img src="{{asset("movers/revolution/photos/service-03.jpg")}}" class="img-fluid" alt="">
                             </span>
                         </span>		
                         <div class="pbmit-ihbox-icon">

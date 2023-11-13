@@ -21,8 +21,9 @@
                                 <div class="collapse navbar-collapse clearfix show" id="pbmit-menu">
                                     <div class="pbmit-menu-wrap">
                                         <ul class="navigation clearfix">
-                                            <li class="dropdown active">
-                                                <a href="index.html">Home</a>
+                                            {{--  {{ Route::currentRouteName()  }}  --}}
+                                            <li class="dropdown {{ Route::currentRouteName()=="home" ? "active" : "" }}">
+                                                <a href="{{ route("home") }}">Home</a>
                                                 <ul>
                                                     <li class="active"><a href="index.html">Homepage 1</a></li>
                                                     <li><a href="homepage-2.html">Homepage 2</a></li>
@@ -35,10 +36,10 @@
                                             <li class="dropdown">
                                                 <a href="#">Pages</a>
                                                 <ul>
-                                                    <li><a href="about-us.html">About us</a></li>
-                                                    <li><a href="our-team.html">Our Team</a></li>
-                                                    <li><a href="team-details.html">Team details</a></li>
-                                                    <li><a href="faq.html">Faq</a></li>
+                                                    <li ><a href="{{ route("aboutUs") }}">About us</a></li>
+                                                    <li><a href="{{ route("ourTeam") }}">Our Team</a></li>
+                                                    <li><a href="{{ route("teamDetails") }}">Team details</a></li>
+                                                    <li><a href="{{ route("faq") }}">Faq</a></li>
                                                 </ul>
                                             </li>
                                             <li class="dropdown">

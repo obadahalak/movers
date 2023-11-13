@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12 col-lg-4">
                 <div class="pbmit-team-img">
-                    <img src="images/team/team-01-new.jpg" class="img-fluid w-100" alt="">
+                    <img src="/movers/revolution/photos/team-01-TeamDetails.jpg" class="img-fluid w-100" alt="">
                 </div>
             </div>
             <div class="col-md-12 col-lg-8">

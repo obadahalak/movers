@@ -9,9 +9,10 @@
                 <div class="pbminfotech-post-item">
                     <span class="pbminfotech-item-thumbnail">
                         <span class="pbminfotech-item-thumbnail-inner">
-                            <img src="images/homepage-1/team/team-01-new.jpg" class="img-fluid" alt="">
+                            <img src="/movers/revolution/photos/team-02-new.jpg" class="img-fluid" alt="">
                         </span>
-                    </span>		
+                    </span>	
+                    	
                     <div class="pbminfotech-box-content">
                         <div class="pbminfotech-box-content-inner">
                             <div class="pbminfotech-pf-box-title">
@@ -60,7 +61,7 @@
                 <div class="pbminfotech-post-item">
                     <span class="pbminfotech-item-thumbnail">
                         <span class="pbminfotech-item-thumbnail-inner">
-                            <img src="images/homepage-1/team/team-02-new.jpg" class="img-fluid" alt="">
+                            <img src="/movers/revolution/photos/team-02-new.jpg" class="img-fluid" alt="">
                         </span>
                     </span>		
                     <div class="pbminfotech-box-content">
@@ -111,7 +112,7 @@
                 <div class="pbminfotech-post-item">
                     <span class="pbminfotech-item-thumbnail">
                         <span class="pbminfotech-item-thumbnail-inner">
-                            <img src="images/homepage-1/team/team-03-new.jpg" class="img-fluid" alt="">
+                            <img src="/movers/revolution/photos/team-02-new.jpg" class="img-fluid" alt="">
                         </span>
                     </span>		
                     <div class="pbminfotech-box-content">
@@ -162,7 +163,7 @@
                 <div class="pbminfotech-post-item">
                     <span class="pbminfotech-item-thumbnail">
                         <span class="pbminfotech-item-thumbnail-inner">
-                            <img src="images/homepage-1/team/team-04-new.jpg" class="img-fluid" alt="">
+                            <img src="/movers/revolution/photos/team-02-new.jpg" class="img-fluid" alt="">
                         </span>
                     </span>		
                     <div class="pbminfotech-box-content">

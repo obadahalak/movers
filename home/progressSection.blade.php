@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-lg-6 p-0">
-                <img src="{{asset("/movers/images/homepage-6/img-02.png")}}" class="w-100" alt="">
+                <img src="{{asset("/movers/revolution/photos/img-02.png")}}" class="w-100" alt="">
             </div>
             <div class="col-md-12 col-lg-6">
                 <div class="progress-six-box">

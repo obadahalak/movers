@@ -7,12 +7,12 @@
             </div>
             <p>Now were up in the big leagues getting’ our turn at bat. And when the odds are against him and work to do Duis aute irure dolor.</p>
             <div class="about-us-left-img">
-                <img src="images/homepage-1/about-img-01.jpg" class="img-fluid w-100" alt="">
+                <img src="movers/revolution/photos/about-img-01.jpg" class="img-fluid w-100" alt="">
             </div>
         </div>
         <div class="col-md-6">
             <div class="about-us-right-box">
-                <img src="images/homepage-1/about-img-02.jpg" class="img-fluid w-100" alt="">
+                <img src="movers/revolution/photos/about-img-02.jpg" class="img-fluid w-100" alt="">
                 <h5>What We do</h5>
                 <div class="row">
                     <div class="col-md-6">

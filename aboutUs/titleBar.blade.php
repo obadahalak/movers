@@ -1,4 +1,4 @@
-<div class="pbmit-title-bar-wrapper">
+<div class="pbmit-title-bar-wrapper" style="background-image:url(/movers/revolution/photos/title-bg.jpg)">
     <div class="container">
        <div class="pbmit-title-bar-content">
           <div class="pbmit-title-bar-content-inner">

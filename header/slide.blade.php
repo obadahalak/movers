@@ -103,7 +103,7 @@
                         data-frame_1="e:power4.out;st:610;sp:1000;sR:610;"
                         data-frame_999="o:0;st:w;sR:7390;"
                         style="z-index:16;"
-                    ><img src="{{asset("/movers/revolution/images/slider-06-b.png")}}" alt="" class="tp-rs-img rs-lazyload" width="940" height="902" data-lazyload="movers/revolution/images/slider-06-b.png" data-no-retina> 
+                    ><img src="{{asset("/movers/revolution/photos/slider-06-b.png")}}" alt="" class="tp-rs-img rs-lazyload" width="940" height="902" data-lazyload="movers/revolution/photos/slider-06-b.png" data-no-retina> 
                     </rs-layer><!--
 
                     --><rs-layer

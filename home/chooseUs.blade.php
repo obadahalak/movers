@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row align-items-center"> 
             <div class="col-md-12 col-lg-6">
-                <img src="{{asset("/movers/images/homepage-6/img-01.png")}}" class="img-fluid w-100" alt="">
+                <img src="{{asset("/movers/revolution/photos/img-01.png")}}" class="img-fluid w-100" alt="">
             </div>
             <div class="col-md-12 col-lg-6">
                 <div class="about-six-content">

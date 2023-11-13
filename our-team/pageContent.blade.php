@@ -9,7 +9,7 @@
                         <div class="pbminfotech-post-item">
                             <span class="pbminfotech-item-thumbnail">
                                 <span class="pbminfotech-item-thumbnail-inner">
-                                    <img src="{{asset("/movers/images/team/team-01.jpg")}}" class="img-fluid w-100" alt="">
+                                    <img src="{{asset("/movers/revolution/photos/team-04-ourTeam.jpg")}}" class="img-fluid w-100" alt="">
                                 </span>
                             </span>		
                             <div class="pbminfotech-box-content">
@@ -60,7 +60,7 @@
                         <div class="pbminfotech-post-item">
                             <span class="pbminfotech-item-thumbnail">
                                 <span class="pbminfotech-item-thumbnail-inner">
-                                    <img src="{{asset("/movers/images/team/team-02.jpg")}}" class="img-fluid w-100" alt="">
+                                    <img src="{{asset("/movers/revolution/photos/team-04-ourTeam.jpg")}}" class="img-fluid w-100" alt="">
                                 </span>
                             </span>		
                             <div class="pbminfotech-box-content">
@@ -111,7 +111,7 @@
                         <div class="pbminfotech-post-item">
                             <span class="pbminfotech-item-thumbnail">
                                 <span class="pbminfotech-item-thumbnail-inner">
-                                    <img src="{{asset("/movers/images/team/team-03.jpg")}}" class="img-fluid w-100" alt="">
+                                    <img src="{{asset("/movers/revolution/photos/team-04-ourTeam.jpg")}}" class="img-fluid w-100" alt="">
                                 </span>
                             </span>		
                             <div class="pbminfotech-box-content">
@@ -162,7 +162,7 @@
                         <div class="pbminfotech-post-item">
                             <span class="pbminfotech-item-thumbnail">
                                 <span class="pbminfotech-item-thumbnail-inner">
-                                    <img src="{{asset("/movers/images/team/team-04.jpg")}}" class="img-fluid w-100" alt="">
+                                    <img src="{{asset("/movers/revolution/photos/team-04-ourTeam.jpg")}}" class="img-fluid w-100" alt="">
                                 </span>
                             </span>		
                             <div class="pbminfotech-box-content">
@@ -213,7 +213,7 @@
                         <div class="pbminfotech-post-item">
                             <span class="pbminfotech-item-thumbnail">
                                 <span class="pbminfotech-item-thumbnail-inner">
-                                    <img src="{{asset("/movers/images/team/team-05.jpg")}}" class="img-fluid w-100" alt="">
+                                    <img src="{{asset("/movers/revolution/photos/team-04-ourTeam.jpg")}}" class="img-fluid w-100" alt="">
                                 </span>
                             </span>		
                             <div class="pbminfotech-box-content">
@@ -264,7 +264,7 @@
                         <div class="pbminfotech-post-item">
                             <span class="pbminfotech-item-thumbnail">
                                 <span class="pbminfotech-item-thumbnail-inner">
-                                    <img src="{{asset("/movers/images/team/team-06.jpg")}}" class="img-fluid w-100" alt="">
+                                    <img src="{{asset("/movers/revolution/photos/team-04-ourTeam.jpg")}}" class="img-fluid w-100" alt="">
                                 </span>
                             </span>		
                             <div class="pbminfotech-box-content">
