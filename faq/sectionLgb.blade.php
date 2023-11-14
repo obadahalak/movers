@@ -2,8 +2,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h3>{{ taal_user_pure(541,'ned')}}MOVERSCO EXPERT</h3>    
-                <p class="pb-2">{{ taal_user_pure(542,'ned')}}Moversco flying away on a wing and a prayer. Who could it be? Believe it or not its just me. Love exciting and new. Come aboard were expecting you. Love life’s sweetest reward Let it flow it floats back to you. Now the world don’t move to the beat of just one drum.</p>                      
+                <h3>{{ taal_user_pure(541,'ned')}}T</h3>    
+                <p class="pb-2">{{ taal_user_pure(542,'ned')}}</p>                      
             </div>
         </div>
         <div class="row">
