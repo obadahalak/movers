@@ -5,8 +5,8 @@
                 <div class="testimonial-six-title">
                     <div class="testimonial-arrow swiper-btn-custom d-flex flex-row-reverse">
                         <div class="pbmit-heading-subheading-style-1">
-                            <h4 class="pbmit-subtitle">{{ taal_user_pure(458,'ned') }}why choose us?</h4>
-                            <h2 class="pbmit-title"><strong>{{ taal_user_pure(459,'ned') }}We are trusted 15+ countries worldwide</strong></h2>
+                            <h4 class="pbmit-subtitle">{{ taal_user_pure(458,'ned') }}</h4>
+                            <h2 class="pbmit-title"><strong>{{ taal_user_pure(459,'ned') }}</strong></h2>
                         </div>
                     </div>
                 </div>
@@ -28,7 +28,7 @@
                                                 <i class="pbmit-base-icon-star pbmit-skincolor pbmit-active"></i> 
                                             </div>
                                             <div class="pbminfotech-box-desc">
-                                                <blockquote class="pbminfotech-testimonial-text">{{ taal_user_pure(460,'ned') }}Long established fact that a reader will be distracted by the readable content of a page when looking at it's layout. The point of using Lorem Ipsum</blockquote>
+                                                <blockquote class="pbminfotech-testimonial-text">{{ taal_user_pure(460,'ned') }}</blockquote>
                                             </div>
                                             <div class="pbminfotech-box-author">
                                                 <div class="pbminfotech-box-img">
