@@ -46,7 +46,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="pbminfotech-cta3-content-wrapper">Create and manage top-performing social campaigns and start.</div>
+                            <div class="pbminfotech-cta3-content-wrapper">{{ taal_user_pure(1041,'ned') }}</div>
                         </div>
                     </div>
                 </div>
@@ -65,13 +65,13 @@
                                     <div class="pbminfotech-vc_cta3-content">
                                         <div class="pbminfotech-vc_cta3-content-header pbminfotech-wrap">
                                             <div class="pbminfotech-vc_cta3-headers pbminfotech-wrap-cell">
-                                                <h2 class="pbminfotech-custom-heading">We'll take it from there</h2>
+                                                <h2 class="pbminfotech-custom-heading">{{ taal_user_pure(1042,'ned') }}</h2>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="pbminfotech-cta3-content-wrapper">Create and manage top-performing social campaigns and start.</div>
+                            <div class="pbminfotech-cta3-content-wrapper">{{ taal_user_pure(1043,'ned') }}</div>
                         </div>
                     </div>
                 </div>
@@ -90,13 +90,13 @@
                                     <div class="pbminfotech-vc_cta3-content">
                                         <div class="pbminfotech-vc_cta3-content-header pbminfotech-wrap">
                                             <div class="pbminfotech-vc_cta3-headers pbminfotech-wrap-cell">
-                                                <h2 class="pbminfotech-custom-heading">Make your Reservation</h2>
+                                                <h2 class="pbminfotech-custom-heading">{{ taal_user_pure(1044,'ned') }}</h2>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="pbminfotech-cta3-content-wrapper">Create and manage top-performing social campaigns and start.</div>
+                            <div class="pbminfotech-cta3-content-wrapper">{{ taal_user_pure(1045,'ned') }}</div>
                         </div>
                     </div>
                 </div>
