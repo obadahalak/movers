@@ -1,7 +1,7 @@
 <div class="container">
     <div class="pbmit-heading-subheading-style-1 text-center">
-        <h4 class="pbmit-subtitle">fun facts</h4>
-        <h2 class="pbmit-title">Counters Numbers <strong> Speak</strong></h2>
+        <h4 class="pbmit-subtitle">{{ taal_user_pure(546,'ned')}}fun facts</h4>
+        <h2 class="pbmit-title">{{ taal_user_pure(547,'ned') }}Counters Numbers <strong> Speak</strong></h2>
     </div>
     <div class="about-counters-box">
         <div class="row">
@@ -17,7 +17,7 @@
                             <span data-appear-animation="animateDigits" data-from="0" data-to="750" data-interval="5" class="numinate">750</span>
                         </div>
                         <h3 class="pbminfotech-fid-title">
-                            <span>Customer Choose Company Movers<br></span>
+                            <span>{{ taal_user_pure(548,'ned') }}Customer Choose Company Movers<br></span>
                         </h3>
                     </div>
                 </div>
@@ -34,7 +34,7 @@
                             <span data-appear-animation="animateDigits" data-from="0" data-to="870" data-interval="5" class="numinate">870</span>
                         </div>
                         <h3 class="pbminfotech-fid-title">
-                            <span>Boxes are Successfully Moved<br></span>
+                            <span>{{ taal_user_pure(549,'ned') }}Boxes are Successfully Moved<br></span>
                         </h3>
                     </div>
                 </div>
@@ -51,7 +51,7 @@
                             <span data-appear-animation="animateDigits" data-from="0" data-to="320" data-interval="5" class="numinate">320</span>
                         </div>
                         <h3 class="pbminfotech-fid-title">
-                            <span>Customers are Satisfied with our Service<br></span>
+                            <span>{{ taal_user_pure(550,'ned') }}Customers are Satisfied with our Service<br></span>
                         </h3>
                     </div>
                 </div>
