@@ -15,13 +15,13 @@
                                     <div class="pbminfotech-vc_cta3-content">
                                         <div class="pbminfotech-vc_cta3-content-header pbminfotech-wrap">
                                             <div class="pbminfotech-vc_cta3-headers pbminfotech-wrap-cell">
-                                                <h2 class="pbminfotech-custom-heading">Make your Reservation</h2>
+                                                <h2 class="pbminfotech-custom-heading">{{ taal_user_pure(1038,'ned') }}</h2>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="pbminfotech-cta3-content-wrapper">Create and manage top-performing social campaigns and start.</div>
+                            <div class="pbminfotech-cta3-content-wrapper">{{ taal_user_pure(1039,'ned') }}</div>
                         </div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@
                                     <div class="pbminfotech-vc_cta3-content">
                                         <div class="pbminfotech-vc_cta3-content-header pbminfotech-wrap">
                                             <div class="pbminfotech-vc_cta3-headers pbminfotech-wrap-cell">
-                                                <h2 class="pbminfotech-custom-heading">Load your Container</h2>
+                                                <h2 class="pbminfotech-custom-heading">{{ taal_user_pure(1040,'ned') }}</h2>
                                             </div>
                                         </div>
                                     </div>
