@@ -23,49 +23,49 @@
                                         <ul class="navigation clearfix">
                                             {{--  {{ Route::currentRouteName()  }}  --}}
                                             <li class="dropdown {{ Route::currentRouteName()=="home" ? "active" : "" }}">
-                                                <a href="{{ route("home") }}">Home</a>
+                                                <a href="{{ route("home") }}">{{ taal_user_pure(1065,'ned') }}</a>
                                                 <ul>
-                                                    <li class="active"><a href="index.html">Homepage 1</a></li>
-                                                    <li><a href="homepage-2.html">Homepage 2</a></li>
-                                                    <li><a href="homepage-3.html">Homepage 3</a></li>
-                                                    <li><a href="homepage-4.html">Homepage 4</a></li>
-                                                    <li><a href="homepage-5.html">Homepage 5</a></li>
-                                                    <li><a href="homepage-6.html">Homepage 6</a></li>
+                                                    <li class="active"><a href="index.html">{{ taal_user_pure(1066,'ned') }}</a></li>
+                                                    <li><a href="homepage-2.html">{{ taal_user_pure(1046,'ned') }}</a></li>
+                                                    <li><a href="homepage-3.html">{{ taal_user_pure(1047,'ned') }}</a></li>
+                                                    <li><a href="homepage-4.html">{{ taal_user_pure(1048,'ned') }}</a></li>
+                                                    <li><a href="homepage-5.html">{{ taal_user_pure(1049,'ned') }}</a></li>
+                                                    <li><a href="homepage-6.html">{{ taal_user_pure(1050,'ned') }}</a></li>
                                                 </ul>
                                             </li>
                                             <li class="dropdown">
                                                 <a href="#">Pages</a>
                                                 <ul>
-                                                    <li ><a href="{{ route("aboutUs") }}">About us</a></li>
-                                                    <li><a href="{{ route("ourTeam") }}">Our Team</a></li>
-                                                    <li><a href="{{ route("teamDetails") }}">Team details</a></li>
-                                                    <li><a href="{{ route("faq") }}">Faq</a></li>
+                                                    <li ><a href="{{ route("aboutUs") }}">{{ taal_user_pure(1051,'ned') }}</a></li>
+                                                    <li><a href="{{ route("ourTeam") }}">{{ taal_user_pure(1052,'ned') }}</a></li>
+                                                    <li><a href="{{ route("teamDetails") }}">{{ taal_user_pure(1053,'ned') }}</a></li>
+                                                    <li><a href="{{ route("faq") }}">{{ taal_user_pure(1054,'ned') }}Faq</a></li>
                                                 </ul>
                                             </li>
                                             <li class="dropdown">
-                                                <a href="#">Projects</a>
+                                                <a href="#">{{ taal_user_pure(1055,'ned') }}</a>
                                                 <ul>
-                                                    <li><a href="projects-style-1.html">Projects Style 1</a></li>
-                                                    <li><a href="projects-style-2.html">Projects Style 2</a></li>
-                                                    <li><a href="projects-style-3.html">Projects Style 3</a></li>
-                                                    <li><a href="projects-single.html">Projects Single</a></li>
+                                                    <li><a href="projects-style-1.html">{{ taal_user_pure(1056,'ned') }}</a></li>
+                                                    <li><a href="projects-style-2.html">{{ taal_user_pure(1057,'ned') }}</a></li>
+                                                    <li><a href="projects-style-3.html">{{ taal_user_pure(1058,'ned') }}</a></li>
+                                                    <li><a href="projects-single.html">{{ taal_user_pure(1059,'ned') }}</a></li>
                                                 </ul>
                                             </li>
-                                            <li class="dropdown">
-                                                <a href="services.html">Services</a>
+                                            <li class="dropdown {{ Route::currentRouteName()=="services" ? "active" : "" }}">
+                                                <a  href="{{route("services")}}">Services</a>
                                                 <ul>
-                                                    <li><a href="services-details.html">Services Detail</a></li>
+                                                    <li><a href="services-details.html">{{ taal_user_pure(1060,'ned') }}</a></li>
                                                 </ul>
                                             </li>
                                             <li class="dropdown">
                                                 <a href="#">Blog</a>
                                                 <ul>
-                                                    <li><a href="blog-large-image.html">Blog Large Image</a></li>
-                                                    <li><a href="blog-grid-view.html">Blog  Grid view</a></li>
-                                                    <li><a href="blog-single-view.html">Blog Single View</a></li>
+                                                    <li><a href="blog-large-image.html">{{ taal_user_pure(1061,'ned') }}</a></li>
+                                                    <li><a href="blog-grid-view.html">{{ taal_user_pure(1062,'ned') }}</a></li>
+                                                    <li><a href="blog-single-view.html">{{ taal_user_pure(1063,'ned') }}</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="contacts.html">Contacts</a></li>
+                                            <li class="{{ Route::currentRouteName()=="contacts" ? "active" : "" }}" ><a href="{{ route("contacts") }}">{{ taal_user_pure(1064,'ned') }}</a></li>
                                         </ul>
                                     </div>
                                 </div>
