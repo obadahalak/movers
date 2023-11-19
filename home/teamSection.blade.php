@@ -5,15 +5,15 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="pbmit-heading-subheading-style-1">
-                        <h4 class="pbmit-subtitle">{{ taal_user_pure(425,'ned') }}</h4>
+                            <h4 class="pbmit-subtitle">{{ taal_user_pure(425,'ned') }}</h4>
                         <h2 class="pbmit-title"><strong>{{ taal_user_pure(426,'ned') }}</strong></h2>
                     </div>
                 </div>
-                <div class="col-md-4">
+                {{--  <div class="col-md-4">
                     <div class="team-six-btn">
                         <a href="our-team.html" class="pbmit-btn pbmit-btn-lg">{{ taal_user_pure(427,'ned') }}</a>
                     </div>
-                </div>
+                </div>  --}}
             </div>
         </div>
     </div>

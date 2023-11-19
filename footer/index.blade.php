@@ -48,7 +48,7 @@
                     <div class="widget">
                         <div class="textwidget">
                             <p>
-                                <img class="pbmit-footerlogo" src="{{asset("/movers/images/homepage-4/footer-logo.png")}}" alt="">
+                                <img class="pbmit-footerlogo" src="{{asset("/movers/images/homepage-6/-logo.png")}}" alt="">
                             </p>
                             <p>{{ taal_user_pure(1020,'ned') }}</p>
                         </div>
@@ -122,7 +122,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="pbmit-footer-copyright-text-area"> {{ taal_user_pure(1036,'ned') }}
-                            <a href="#">{{ taal_user_pure(1035,'ned') }}</a>{{ taal_user_pure(1037,'ned') }}				
+                            <a href="https://cs-aspiraties.nl">{{ taal_user_pure(1035,'ned') }}</a>{{ taal_user_pure(1037,'ned') }}				
                         </div>
                     </div>			
                 </div>

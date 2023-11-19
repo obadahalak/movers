@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h3>{{ taal_user_pure(541,'ned')}}T</h3>    
+                <h3>{{ taal_user_pure(541,'ned')}}</h3>    
                 <p class="pb-2">{{ taal_user_pure(542,'ned')}}</p>                      
             </div>
         </div>

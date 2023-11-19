@@ -52,7 +52,7 @@
                         data-frame_0="y:50,41,31,19;"
                         data-frame_1="st:1790;sp:1000;sR:1790;"
                         data-frame_999="o:0;st:w;sR:6210;"
-                        data-frame_hover="c:#000;bgc:#ffdc39;bor:6px,6px,6px,6px;bri:100%;"
+                        data-frame_hover="c:#000;bgc:#D6B146;bor:6px,6px,6px,6px;bri:100%;"
                         style="z-index:19;background-color:#14212a;font-family:'Nunito Sans';text-transform:uppercase;"
                     >View More 
                     </rs-layer><!--
@@ -72,7 +72,7 @@
                         data-frame_0="y:50,41,31,19;"
                         data-frame_1="st:2100;sp:1000;"
                         data-frame_999="o:0;st:w;sR:5900;"
-                        style="z-index:20;background-color:#ffdc39;font-family:'Roboto';"
+                        style="z-index:20;background-color:#D6B146;font-family:'Roboto';"
                     ><i class="fa fa-play"></i> 
                     </a><!--
 
