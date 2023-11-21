@@ -108,7 +108,7 @@
                             <div>{{ taal_user_pure(1034,'ned') }}</div>
                             <form>
                                 <input type="email" name="email" placeholder="Your email address" required="">
-                                <button class="pbmit-btn" type="submit">Subscribe</button>
+                                <button class="pbmit-btn" type="submit">{{ taal_user_pure(1074,'ned') }}</button>
                             </form>					
                         </div>
                     </div>

@@ -44,15 +44,15 @@
                                             <li><a href="{{ route("ourTeam") }}">{{ taal_user_pure(1052,'ned') }}</a></li>
 
                                             <li class=" {{ Route::currentRouteName()=="faq" ? "active" : "" }}">
-                                                <a  href="{{route("faq")}}">FAQ</a>
+                                                <a  href="{{route("faq")}}">{{ taal_user_pure(1067,'ned') }}</a>
                                                 
                                             </li>
                                             <li class=" {{ Route::currentRouteName()=="aboutUs" ? "active" : "" }}">
-                                                <a  href="{{route("aboutUs")}}">Over ons</a>
+                                                <a  href="{{route("aboutUs")}}">{{ taal_user_pure(1068,'ned') }}</a>
                                                 
                                             </li>
                                             <li class=" {{ Route::currentRouteName()=="price" ? "active" : "" }}">
-                                                <a  href="{{route("price")}}">Price</a>
+                                                <a  href="{{route("price")}}">{{ taal_user_pure(1069,'ned') }}</a>
                                                 
                                             </li>
                                            

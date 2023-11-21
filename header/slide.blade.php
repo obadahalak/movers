@@ -16,10 +16,10 @@
                         data-frame_0="x:-175%;o:1;"
                         data-frame_0_mask="u:t;x:100%;"
                         data-frame_1="e:power3.out;st:1200;sp:1000;sR:1200;"
-                        data-frame_1_mask="u:t;"
+prodata-frame_1_mask="u:t;"
                         data-frame_999="o:0;st:w;sR:6800;"
                         style="z-index:17;font-family:'Biryani';"
-                    >Let us move you <br>with <span class="pbmit-skincolor">honesty</span> and<br> greatness. 
+                    >Let us move you <br>with <span class="pbmit-skincolor">{{ taal_user_pure(1070,'ned') }}</span> and<br> greatness. 
                     </rs-layer><!--
 
                     --><rs-layer
@@ -36,7 +36,7 @@
                         data-frame_1_mask="u:t;"
                         data-frame_999="o:0;st:w;sR:6500;"
                         style="z-index:18;font-family:'Nunito Sans';"
-                    >We are a USA based top MoverPro company Consectetur adipiscing <br>elit, sed do eiusmod tempor incididunt ut labore. 
+                    >{{ taal_user_pure(1071,'ned') }} 
                     </rs-layer><!--
 
                     --><rs-layer
@@ -54,7 +54,7 @@
                         data-frame_999="o:0;st:w;sR:6210;"
                         data-frame_hover="c:#000;bgc:#D6B146;bor:6px,6px,6px,6px;bri:100%;"
                         style="z-index:19;background-color:#14212a;font-family:'Nunito Sans';text-transform:uppercase;"
-                    >View More 
+                    >{{ taal_user_pure(1072,'ned') }}
                     </rs-layer><!--
 
                     --><a
@@ -88,7 +88,7 @@
                         data-frame_1="st:2100;sp:1000;sR:2100;"
                         data-frame_999="o:0;st:w;sR:5900;"
                         style="z-index:21;font-family:'Roboto';"
-                    >Watch Video 
+                    >{{ taal_user_pure(1073,'ned') }} 
                     </rs-layer><!--
 
                     --><rs-layer
