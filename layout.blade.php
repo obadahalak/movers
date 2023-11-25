@@ -1,5 +1,7 @@
 <!DOCTYPE html  >
     <head>
+      
+    @yield('css')
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>MoversCO – Movers, Relocation, Transport & Packers HTML Template</title>
