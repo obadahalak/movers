@@ -41,7 +41,7 @@
         <link rel="stylesheet" href="{{asset("/movers/css/responsive.css")}}">
         <!-- REVOLUTION STYLE SHEETS -->
         <link rel="stylesheet" type="text/css" href="{{asset("/movers/revolution/rs6.css")}}">
-  
+        @yield('css')
      </head>
 <body>
     @yield('content')

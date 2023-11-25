@@ -9,7 +9,7 @@
                                <i class="themifyicon ti-headphone"></i>
                             </div>
                             <div class="pbmit-footer-contact-info-wrap">
-                                <strong>Phone:</strong> <br>(719) 445-2808
+                                <strong>{{ taal_user_pure(595,'ned') }}:</strong> <br>{{ taal_user_pure(596,'ned') }}
                             </div>
                         </div>
                     </div>
@@ -21,7 +21,7 @@
                                    <i class="themifyicon ti-location-pin"></i>
                             </div>
                             <div class="pbmit-footer-contact-info-wrap">
-                                <strong>Address:</strong> <br>4578 Marmora Road
+                                <strong>{{ taal_user_pure(597,'ned') }}:</strong> <br>{{ taal_user_pure(598,'ned') }}
                             </div>
                         </div>
                     </div>
@@ -33,7 +33,7 @@
                                    <i class="themifyicon ti-email"></i>
                             </div>
                             <div class="pbmit-footer-contact-info-wrap">
-                                <strong>E-mail: </strong> <br>info@demolink. org
+                                <strong>{{ taal_user_pure(599,'ned') }}: </strong> <br>{{ taal_user_pure(600,'ned') }}
                             </div>
                         </div>
                     </div>
@@ -48,9 +48,9 @@
                     <div class="widget">
                         <div class="textwidget">
                             <p>
-                                <img class="pbmit-footerlogo" src="{{asset("/movers/images/homepage-4/footer-logo.png")}}" alt="">
+                                <img class="pbmit-footerlogo" src="{{asset("/movers/images/homepage-6/-logo.png")}}" alt="">
                             </p>
-                            <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.Duis aute irure dolor in reprehenderit in voluptate velit.</p>
+                            <p>{{ taal_user_pure(1020,'ned') }}</p>
                         </div>
                         <div class="pbmit-social-links-wrapper">
                             <ul class="social-icons">
@@ -75,40 +75,40 @@
                 </div>
                 <div class="col-md-6 col-lg-3">
                     <div class="widget">
-                        <h2 class="widget-title">QUICK LINKS</h2>
+                        <h2 class="widget-title">{{ taal_user_pure(1021,'ned') }}</h2>
                         <div class="textwidget">
                             <ul>
-                                <li><a href="about-us.html">About Us</a></li>
-                                <li><a href="services-details.html">Our Services</a></li>
-                                <li><a href="contacts.html">Get In Touch</a></li>
-                                <li><a href="services-details.html">Our Clients</a></li>
-                                <li><a href="services-details.html">Download Broucher</a></li>
+                                <li><a href="about-us.html">{{ taal_user_pure(1022,'ned') }}</a></li>
+                                <li><a href="services-details.html">{{ taal_user_pure(1023,'ned') }}</a></li>
+                                <li><a href="contacts.html">{{ taal_user_pure(1024,'ned') }}</a></li>
+                                <li><a href="services-details.html">{{ taal_user_pure(1025,'ned') }}</a></li>
+                                <li><a href="services-details.html">{{ taal_user_pure(1026,'ned') }}</a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
                     <div class="widget">
-                        <h2 class="widget-title">CATEGORIES</h2>
+                        <h2 class="widget-title">{{ taal_user_pure(1027,'ned') }}</h2>
                         <div class="textwidget">
                             <ul>
-                                <li><a href="projects-single.html">Express</a></li>
-                                <li><a href="projects-single.html">Material</a></li>
-                                <li><a href="projects-single.html">Furniture</a></li>
-                                <li><a href="projects-single.html">Vehicle</a></li>
-                                <li><a href="projects-single.html">Commodity</a></li>
+                                <li><a href="projects-single.html">{{ taal_user_pure(1028,'ned') }}</a></li>
+                                <li><a href="projects-single.html">{{ taal_user_pure(1029,'ned') }}</a></li>
+                                <li><a href="projects-single.html">{{ taal_user_pure(1030,'ned') }}</a></li>
+                                <li><a href="projects-single.html">{{ taal_user_pure(1031,'ned') }}</a></li>
+                                <li><a href="projects-single.html">{{ taal_user_pure(1032,'ned') }}</a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
                     <div class="widget">
-                        <h2 class="widget-title">NEWSLETTER</h2>
+                        <h2 class="widget-title">{{ taal_user_pure(1033,'ned') }}</h2>
                         <div class="textwidget">
-                            <div>Accusamus et iusto odio praesentium quas molestias except.</div>
+                            <div>{{ taal_user_pure(1034,'ned') }}</div>
                             <form>
                                 <input type="email" name="email" placeholder="Your email address" required="">
-                                <button class="pbmit-btn" type="submit">Subscribe</button>
+                                <button class="pbmit-btn" type="submit">{{ taal_user_pure(1074,'ned') }}</button>
                             </form>					
                         </div>
                     </div>
@@ -121,8 +121,8 @@
             <div class="pbmit-footer-text-inner text-center">
                 <div class="row">
                     <div class="col-md-12">
-                        <div class="pbmit-footer-copyright-text-area"> Copyright © 2023 
-                            <a href="#">Moversco Demo 6</a>. All rights reserved.				
+                        <div class="pbmit-footer-copyright-text-area"> {{ taal_user_pure(1036,'ned') }}
+                            <a href="https://cs-aspiraties.nl">{{ taal_user_pure(1035,'ned') }}</a>{{ taal_user_pure(1037,'ned') }}				
                         </div>
                     </div>			
                 </div>

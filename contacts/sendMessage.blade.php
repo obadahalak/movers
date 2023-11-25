@@ -4,8 +4,8 @@
 						<div class="col-md-8">
 							<div class="contact-form">
 								<div class="pbmit-heading-subheading text-center">
-									<h4 class="pbmit-subtitle">CONTACT US</h4>
-									<h2 class="pbmit-title">Drop us a line</h2>
+									<h4 class="pbmit-subtitle">{{ taal_user_pure(593,'ned') }}</h4>
+									<h2 class="pbmit-title">{{ taal_user_pure(594,'ned') }}</h2>
 								</div>
 								<form method="post" id="contact-form" action="send.php">
 									<div class="row"> 

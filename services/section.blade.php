@@ -5,7 +5,7 @@
                 <div class="pbminfotech-post-item">
                     <span class="pbminfotech-item-thumbnail">
                         <span class="pbminfotech-item-thumbnail-inner">
-                            <img src="images/service/service-01.jpg" class="img-fluid" alt="">
+                            <img src="movers/revolution/photos/service-06-services.jpg" class="img-fluid" alt="">
                         </span>
                     </span>		
                     <div class="pbminfotech-box-content">
@@ -34,7 +34,7 @@
                 <div class="pbminfotech-post-item">
                     <span class="pbminfotech-item-thumbnail">
                         <span class="pbminfotech-item-thumbnail-inner">
-                            <img src="images/service/service-02.jpg" class="img-fluid" alt="">
+                            <img src="movers/revolution/photos/service-06-services.jpg" class="img-fluid" alt="">
                         </span>
                     </span>		
                     <div class="pbminfotech-box-content">
@@ -63,7 +63,7 @@
                 <div class="pbminfotech-post-item">
                     <span class="pbminfotech-item-thumbnail">
                         <span class="pbminfotech-item-thumbnail-inner">
-                            <img src="images/service/service-03.jpg" class="img-fluid" alt="">
+                            <img src="movers/revolution/photos/service-06-services.jpg" class="img-fluid" alt="">
                         </span>
                     </span>		
                     <div class="pbminfotech-box-content">
@@ -92,7 +92,7 @@
                 <div class="pbminfotech-post-item">
                     <span class="pbminfotech-item-thumbnail">
                         <span class="pbminfotech-item-thumbnail-inner">
-                            <img src="images/service/service-04.jpg" class="img-fluid" alt="">
+                            <img src="movers/revolution/photos/service-06-services.jpg" class="img-fluid" alt="">
                         </span>
                     </span>		
                     <div class="pbminfotech-box-content">
@@ -121,7 +121,7 @@
                 <div class="pbminfotech-post-item">
                     <span class="pbminfotech-item-thumbnail">
                         <span class="pbminfotech-item-thumbnail-inner">
-                            <img src="images/service/service-05.jpg" class="img-fluid" alt="">
+                            <img src="movers/revolution/photos/service-06-services.jpg" class="img-fluid" alt="">
                         </span>
                     </span>		
                     <div class="pbminfotech-box-content">
@@ -150,7 +150,7 @@
                 <div class="pbminfotech-post-item">
                     <span class="pbminfotech-item-thumbnail">
                         <span class="pbminfotech-item-thumbnail-inner">
-                            <img src="images/service/service-06.jpg" class="img-fluid" alt="">
+                            <img src="movers/revolution/photos/service-06-services.jpg" class="img-fluid" alt="">
                         </span>
                     </span>		
                     <div class="pbminfotech-box-content">
@@ -179,7 +179,7 @@
                 <div class="pbminfotech-post-item">
                     <span class="pbminfotech-item-thumbnail">
                         <span class="pbminfotech-item-thumbnail-inner">
-                            <img src="images/service/service-07.jpg" class="img-fluid" alt="">
+                            <img src="movers/revolution/photos/service-06-services.jpg" class="img-fluid" alt="">
                         </span>
                     </span>		
                     <div class="pbminfotech-box-content">
@@ -208,7 +208,7 @@
                 <div class="pbminfotech-post-item">
                     <span class="pbminfotech-item-thumbnail">
                         <span class="pbminfotech-item-thumbnail-inner">
-                            <img src="images/service/service-08.jpg" class="img-fluid" alt="">
+                            <img src="movers/revolution/photos/service-06-services.jpg" class="img-fluid" alt="">
                         </span>
                     </span>		
                     <div class="pbminfotech-box-content">
@@ -237,7 +237,7 @@
                 <div class="pbminfotech-post-item">
                     <span class="pbminfotech-item-thumbnail">
                         <span class="pbminfotech-item-thumbnail-inner">
-                            <img src="images/service/service-09.jpg" class="img-fluid" alt="">
+                            <img src="movers/revolution/photos/service-06-services.jpg" class="img-fluid" alt="">
                         </span>
                     </span>		
                     <div class="pbminfotech-box-content">

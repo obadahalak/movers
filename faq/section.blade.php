@@ -2,8 +2,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h3>{{ taal_user_pure(539,'ned') }}FREQUENTLY ASKED QUESTIONS</h3>
-                <p class="pb-2">{{ taal_user_pure(540,'ned') }}Moversco flying away on a wing and a prayer. Who could it be? Believe it or not its just me. Love exciting and new. Come aboard were expecting you. Love life’s sweetest reward Let it flow it floats back to you. Now the world don’t move to the beat of just one drum.</p>
+                <h3>{{ taal_user_pure(539,'ned')}}</h3>
+                <p class="pb-2">{{ taal_user_pure(540,'ned')}}</p>
                 <div class="accordion accordion-style-2" id="accordionExample">
                     <div class="accordion-item active">
                         <h2 class="accordion-header" id="headingOne">

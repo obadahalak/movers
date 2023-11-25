@@ -3,8 +3,8 @@
         <div class="col-md-6">
             <div class="testimonial-one-bg">
                 <div class="pbmit-heading-subheading-style-1 text-white">
-                    <h4 class="pbmit-subtitle">OUR CLIENTS SAY</h4>
-                    <h2 class="pbmit-title">We Love Our Clients <br> And <strong>They Love Us</strong></h2>
+                    <h4 class="pbmit-subtitle">{{ taal_user_pure(571,'ned') }}</h4>
+                    <h2 class="pbmit-title">{{ taal_user_pure(572,'ned') }} <br> {{ taal_user_pure(573,'ned') }}  <strong> {{ taal_user_pure(574,'ned') }}</strong></h2>
                 </div>
                 <div class="swiper-slider"  data-autoplay="true" data-dots="true" data-arrows="false"  data-columns="1" data-margin="30" data-effect="slide">
                     <div class="swiper-wrapper">
@@ -14,12 +14,12 @@
                                 <div class="pbminfotech-post-item">
                                     <div class="pbminfotech-box-content">
                                         <div class="pbminfotech-box-desc">
-                                            <blockquote class="pbminfotech-testimonial-text">Long established fact that a reader will be distracted by the readable content of a page when looking at it's layout. The point of using Lorem Ipsum</blockquote>
+                                            <blockquote class="pbminfotech-testimonial-text">{{ taal_user_pure(575,'ned') }}</blockquote>
                                         </div>
                                         <div class="pbminfotech-box-author">
                                             <div class="pbminfotech-box-title">
-                                                <h3 class="pbminfotech-author-name">Victoria Porter</h3>
-                                                <span class="pbminfotech-box-footer">Customer</span>
+                                                <h3 class="pbminfotech-author-name">{{ taal_user_pure(576,'ned') }}</h3>
+                                                <span class="pbminfotech-box-footer">{{ taal_user_pure(577,'ned') }}</span>
                                             </div>
                                         </div>
                                     </div>
@@ -32,12 +32,12 @@
                                 <div class="pbminfotech-post-item">
                                     <div class="pbminfotech-box-content">
                                         <div class="pbminfotech-box-desc">
-                                            <blockquote class="pbminfotech-testimonial-text">Long established fact that a reader will be distracted by the readable content of a page when looking at it's layout. The point of using Lorem Ipsum</blockquote>
+                                            <blockquote class="pbminfotech-testimonial-text">{{ taal_user_pure(578,'ned') }}</blockquote>
                                         </div>
                                         <div class="pbminfotech-box-author">
                                             <div class="pbminfotech-box-title">
-                                                <h3 class="pbminfotech-author-name">John Smith</h3>
-                                                <span class="pbminfotech-box-footer">Building Owner </span>
+                                                <h3 class="pbminfotech-author-name">{{ taal_user_pure(579,'ned') }}</h3>
+                                                <span class="pbminfotech-box-footer">{{ taal_user_pure(580,'ned') }}</span>
                                             </div>
                                         </div>
                                     </div>
@@ -50,12 +50,12 @@
                                 <div class="pbminfotech-post-item">
                                     <div class="pbminfotech-box-content">
                                         <div class="pbminfotech-box-desc">
-                                            <blockquote class="pbminfotech-testimonial-text">Long established fact that a reader will be distracted by the readable content of a page when looking at it's layout. The point of using Lorem Ipsum</blockquote>
+                                            <blockquote class="pbminfotech-testimonial-text">{{ taal_user_pure(581,'ned') }}</blockquote>
                                         </div>
                                         <div class="pbminfotech-box-author">
                                             <div class="pbminfotech-box-title">
-                                                <h3 class="pbminfotech-author-name">Allien John</h3>
-                                                <span class="pbminfotech-box-footer">Customer</span>
+                                                <h3 class="pbminfotech-author-name">{{ taal_user_pure(582,'ned') }}</h3>
+                                                <span class="pbminfotech-box-footer">{{ taal_user_pure(583,'ned') }}</span>
                                             </div>
                                         </div>
                                     </div>

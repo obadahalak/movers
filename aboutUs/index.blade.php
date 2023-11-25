@@ -21,7 +21,7 @@
 			<section class="about-counters-numbers">    
                 @include('movers.aboutUs.counterNumbers')
             </section>
-            <section class="video-section-one">
+            <section class="video-section-one" style="background-image: url(/movers/revolution/photos/testmonial-bg.jpg)">
                 
                 @include('movers.aboutUs.testimonial')
             </section>

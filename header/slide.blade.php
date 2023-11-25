@@ -16,10 +16,10 @@
                         data-frame_0="x:-175%;o:1;"
                         data-frame_0_mask="u:t;x:100%;"
                         data-frame_1="e:power3.out;st:1200;sp:1000;sR:1200;"
-                        data-frame_1_mask="u:t;"
+prodata-frame_1_mask="u:t;"
                         data-frame_999="o:0;st:w;sR:6800;"
                         style="z-index:17;font-family:'Biryani';"
-                    >Let us move you <br>with <span class="pbmit-skincolor">honesty</span> and<br> greatness. 
+                    >Let us move you <br>with <span class="pbmit-skincolor">{{ taal_user_pure(1070,'ned') }}</span> and<br> greatness. 
                     </rs-layer><!--
 
                     --><rs-layer
@@ -36,7 +36,7 @@
                         data-frame_1_mask="u:t;"
                         data-frame_999="o:0;st:w;sR:6500;"
                         style="z-index:18;font-family:'Nunito Sans';"
-                    >We are a USA based top MoverPro company Consectetur adipiscing <br>elit, sed do eiusmod tempor incididunt ut labore. 
+                    >{{ taal_user_pure(1071,'ned') }} 
                     </rs-layer><!--
 
                     --><rs-layer
@@ -52,9 +52,9 @@
                         data-frame_0="y:50,41,31,19;"
                         data-frame_1="st:1790;sp:1000;sR:1790;"
                         data-frame_999="o:0;st:w;sR:6210;"
-                        data-frame_hover="c:#000;bgc:#ffdc39;bor:6px,6px,6px,6px;bri:100%;"
+                        data-frame_hover="c:#000;bgc:#D6B146;bor:6px,6px,6px,6px;bri:100%;"
                         style="z-index:19;background-color:#14212a;font-family:'Nunito Sans';text-transform:uppercase;"
-                    >View More 
+                    >{{ taal_user_pure(1072,'ned') }}
                     </rs-layer><!--
 
                     --><a
@@ -72,7 +72,7 @@
                         data-frame_0="y:50,41,31,19;"
                         data-frame_1="st:2100;sp:1000;"
                         data-frame_999="o:0;st:w;sR:5900;"
-                        style="z-index:20;background-color:#ffdc39;font-family:'Roboto';"
+                        style="z-index:20;background-color:#D6B146;font-family:'Roboto';"
                     ><i class="fa fa-play"></i> 
                     </a><!--
 
@@ -88,7 +88,7 @@
                         data-frame_1="st:2100;sp:1000;sR:2100;"
                         data-frame_999="o:0;st:w;sR:5900;"
                         style="z-index:21;font-family:'Roboto';"
-                    >Watch Video 
+                    >{{ taal_user_pure(1073,'ned') }} 
                     </rs-layer><!--
 
                     --><rs-layer
@@ -103,7 +103,7 @@
                         data-frame_1="e:power4.out;st:610;sp:1000;sR:610;"
                         data-frame_999="o:0;st:w;sR:7390;"
                         style="z-index:16;"
-                    ><img src="{{asset("/movers/revolution/images/slider-06-b.png")}}" alt="" class="tp-rs-img rs-lazyload" width="940" height="902" data-lazyload="movers/revolution/images/slider-06-b.png" data-no-retina> 
+                    ><img src="{{asset("/movers/revolution/photos/slider-06-b.png")}}" alt="" class="tp-rs-img rs-lazyload" width="940" height="902" data-lazyload="movers/revolution/photos/slider-06-b.png" data-no-retina> 
                     </rs-layer><!--
 
                     --><rs-layer
