@@ -25,25 +25,41 @@
                 <ul class="text-xl text-center items-center gap-x-5 md:gap-x-4 lg:text-lg lg:flex  lg:pt-0" style="color: ffdc39">
                     <li  class=" py-2 lg:py-0  ml-2 {{ Route::currentRouteName()=="home" ? "text-deepPink" : "text-gray-800" }} ">
                         <a  href="{{route('home')}}">
-                         Home
+                            {{ taal_user_pure(1066,'ned') }}
                         </a>
                     </li>
                     <li class="py-2 lg:py-0  ml-2 {{ Route::currentRouteName()=="ourTeam" ? "text-deepPink" : "text-gray-800" }} " >
                         <a  href="{{route('ourTeam')}}">
-                            ourTeam
+                            {{ taal_user_pure(1052,'ned') }}
                         </a>
                     </li>
-                    <li class="py-2 lg:py-0  ml-2 {{ Route::currentRouteName()=="vrachtvervoerder-inhuren" ? "text-deepPink" : "text-gray-800" }} ">
-                        <a class=" " href="{{route('vrachtvervoerder-inhuren')}}">
-                            vrachtvervoerder-inhuren
-                        </a>
+
+
+                    <li class=" lg:py-0  ml-2 dropdown inline tracking-wide">
+                        <a class="text-gray-800">Pages</a>
+                        <div class="dropdown-menu absolute hidden h-auto flex">
+                           
+                        <ul class="block w-full bg-white shadow px-4 ">
+                            <li class="py-2 "><a href="{{route('vrachtvervoerder-inhuren')}}">vrachtvervoerder-inhuren</a></li>
+                            <li class="py-2 "><a href="{{route('koeriersvoertuigen')}}">koeriersvoertuigen</a></li>
+                            <li class="py-2 "><a href="{{route('recensies-klanten')}}">recensies-klanten</a></li>
+                        </ul>
+                         </div>
                     </li>
-                    <li class="py-2 lg:py-0 ml-2 {{ Route::currentRouteName()=="recensies-klanten" ? "text-deepPink" : "text-gray-800" }}">
-                        <a class=" " href="{{route('recensies-klanten')}}">
-                            recensies-klanten
-                        </a>
+                    
+                     
+                    <li class=" {{ Route::currentRouteName()=="aboutUs" ? "text-deepPink" : "text-gray-800" }}">
+                        <a  href="{{route("aboutUs")}}">{{ taal_user_pure(1068,'ned') }}</a>
+
                     </li>
-                 
+                    <li class=" {{ Route::currentRouteName()=="price" ? "text-deepPink" : "text-gray-800" }}">
+                        <a  href="{{route("price")}}">{{ taal_user_pure(1069,'ned') }}</a>
+
+                    </li>
+
+                    <li class="{{ Route::currentRouteName()=="contacts" ? "text-deepPink" : "text-gray-800" }}" >
+                        <a href="{{ route("contacts") }}">{{ taal_user_pure(1064,'ned') }}</a>
+                    </li>
                   
                     <li class="pbmit-social-li pbmit-social-facebook text-gray-500">
                         <a href="#" target="_blank">
