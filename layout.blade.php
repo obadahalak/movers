@@ -2,7 +2,11 @@
     <head>
       <style> #menu-toggle:checked+#menu {
              display: block;
+             
          }
+         .dropdown:hover .dropdown-menu {
+            display: block;
+          }
       </style>
       <script src="https://cdn.tailwindcss.com"></script>
 
