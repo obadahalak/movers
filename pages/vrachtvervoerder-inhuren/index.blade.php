@@ -1,21 +1,12 @@
 @extends('movers.layout')
 
-@section('css')
-
-<script src="https://cdn.tailwindcss.com"></script>
-
-<link href="{{ asset('movers/css/output.css') }}" rel="stylesheet">
-
-
-@endsection
-
 @section('content')
 
 <!--shahd -->
 <header class="site-header header-style-6">
 
 
-    @include('movers.header.topNavbar')
+    @include('movers.header.navbar')
 </header>
 
 
