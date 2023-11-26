@@ -387,9 +387,7 @@
     {{-- end-table --}}
 
 
-    {{--  --}}
-{{-- bottom --}}freight forwarders
-
+{{-- bottom --}}
     <div class="mt-4 mb-8 w-full flex">
         <button class="mx-auto mt-8 lg:text-xl text-white font-semibold  bg-deep2Pink lg:p-3  p-2 lg:text-center text-start rounded-md hover:shadow-lg">Bereken
             Bereken prijs en boek direct
