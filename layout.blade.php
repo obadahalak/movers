@@ -1,7 +1,13 @@
 <!DOCTYPE html  >
     <head>
-      
-    @yield('css')
+      <style> #menu-toggle:checked+#menu {
+             display: block;
+         }
+      </style>
+      <script src="https://cdn.tailwindcss.com"></script>
+
+   <link href="{{ asset('/movers/css/output.css') }}" rel="stylesheet">
+     @yield('css')
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>MoversCO – Movers, Relocation, Transport & Packers HTML Template</title>
@@ -41,7 +47,7 @@
         <link rel="stylesheet" href="{{asset("/movers/css/responsive.css")}}">
         <!-- REVOLUTION STYLE SHEETS -->
         <link rel="stylesheet" type="text/css" href="{{asset("/movers/revolution/rs6.css")}}">
-        @yield('css')
+       
      </head>
 <body>
     @yield('content')
@@ -76,6 +82,8 @@
       <script src="{{asset("/movers/revolution/rbtools.min.js")}}"></script>
       <script src="{{asset("/movers/revolution/rs6.min.js")}}"></script>
 
+
+      <script src="https://unpkg.com/flowbite@1.4.0/dist/flowbite.js"></script>
       @include('movers.footer.index')
 
 
